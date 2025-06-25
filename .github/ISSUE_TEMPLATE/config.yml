@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/popcorncomputer
+    about: For real-time discussions and community support
+  - name: General Support
+    url: mailto:support@popcorncomputer.com
+    about: For technical support not related to updates
+  - name: Main Website
+    url: https://popcorncomputer.com
+    about: Visit our main website for product information
