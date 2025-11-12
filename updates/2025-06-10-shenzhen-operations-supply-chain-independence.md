@@ -1,7 +1,9 @@
-# Establishing Our Shenzhen Operations & Supply Chain Independence
-
-**Date:** June 10, 2025  
-**Author:** José Angel Torres & Dev Team
+---
+title: "Establishing Our Shenzhen Operations & Supply Chain Independence"
+date: "2025-06-10T00:00:00+08:00"
+author: "José Angel Torres & Dev Team"
+description: "Introducing our Shenzhen operations and the strategic independence we're building through in-house capabilities, local supply chain management, and comprehensive component testing."
+---
 
 After working tirelessly and restlessly, we're excited to **introduce our Shenzhen operations** - a major milestone in our journey toward the 2025 Popcorn Computer delivery. We have been slowly building out our in-house capabilities, successfully establishing our local physical office space in Shenzhen Huaqiangbei and hiring dedicated employees to build out sufficient supply chain and testing facilities.
 
